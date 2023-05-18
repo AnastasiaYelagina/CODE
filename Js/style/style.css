@@ -1,0 +1,83 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+marquee{
+    font-size: 50px;
+}
+
+#text{
+    font-size: 50px;
+    color: yellow;
+    background-color: lightblue;
+}
+.first{
+    font-family:  'Lobster', cursive;
+    color: yellow;
+}
+.second{
+    font-family:  'Jura', sans-serif;
+    color: white;
+}
+.third{
+    font-family: 'Rubik Glitch', cursive;
+    color: red;
+}
+.link{
+    font-size: 50px;
+    display: block;
+    width: 80%;
+    height: 250px;
+    background-color: gray;
+    border: solid black 1px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 7%;
+    padding: auto;
+    transition: 2s;
+}
+.link:hover{
+    background-color: rgb(199, 199, 199);
+}
+.wrapper{
+    display: grid;
+    width: 100%;
+    height: 1920px;
+
+}
+.blackboard{
+    background-color: lightsalmon;
+}
+.ex1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ex2{
+    font-family: cursive;
+    font-weight: 900;
+}
+.ex3{
+    font-family: 'Lobster', cursive;
+
+}
+.ex5{
+    font-family: 'Rubik Glitch', cursive;
+
+}
+.ex6{
+    text-shadow: 0 0 10px red;
+}
+.ex7{
+    text-shadow: 3px -3px darkblue;
+    text-transform: uppercase;
+}
+.ex8{
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+    color: white;
+    font: 2.5em Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #fff;
+}
+.ex9{
+    text-decoration: underline;
+    text-decoration-style:wavy ;
+}
